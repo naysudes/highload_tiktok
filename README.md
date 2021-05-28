@@ -113,7 +113,7 @@ https://news.cpa.ru/tiktok-showed-audience-statistics/
 
 CDN - на хранение видео, небольшие CDN - на предзагруженные популярные тик-токи. В качестве базы данных будем использовать PostgreSQL. Отдельный микросервис на рекоменлации?
 
-![alt text](Schema_Fiz.png "Физическая схема")
+![alt text](SchemaFiz.png "Физическая схема")
 
 # 5 Выбор технологий
 
