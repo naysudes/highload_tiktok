@@ -108,3 +108,7 @@ https://news.cpa.ru/tiktok-showed-audience-statistics/
 # 3. Логическая схема
 
 ![alt text](Schema.png "Логическая схема бд")
+
+# 4. Физическая схема
+
+![alt text](SchemaFiz.png "Логическая схема бд")
